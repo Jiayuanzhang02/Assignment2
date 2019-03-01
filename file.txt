@@ -1,4 +1,4 @@
-Leo changed the first line of file 
+Leo solved the conflict 
 This is the file that we are working on
 Hope this time we will succeed
 I made a change to the last fine. I am still working with Leo 
